@@ -1,0 +1,120 @@
+---
+---
+
+$accent-color: #FFB1A2;
+$primary-color: #25a000;
+$primary-color-dark: #007724;
+$main-background: linear-gradient(315deg, lighten($primary-color-dark, 10%) 0%, $primary-color-dark 74%) !default;
+
+@import 'jekyll-theme-open-project';
+
+.main-section {
+  > .title {
+    font-weight: 500;
+  }
+}
+
+body > .underlay > footer {
+  .parent-hub-plug {
+    display: none !important;
+    // Temporary measure, until this site is converted to hub site or new framework.
+  }
+}
+
+body.site--project.layout--home > main > .custom-intro .summary p:first-child:first-letter {
+  font-size: unset;
+  line-height: unset;
+  color: unset;
+  margin: unset;
+  float: unset;
+  padding: unset;
+}
+
+body > .underlay > header > .hamburger-menu {
+  > nav {
+    margin-top: 1em
+  }
+
+  > nav > * {
+    margin-left: 1.5em
+  }
+}
+
+
+body > .underlay > header {
+  > .site-logo,
+  > .hamburger-menu .site-logo-container {
+
+    margin-right: 2em;
+
+    a .symbol {
+      display: inline-block;
+
+      svg {
+        height: 2.5em;
+      }
+    }
+
+    a .title {
+      display: inline-block;
+
+      svg {
+        height: 2.5em
+      }
+    }
+
+  }
+}
+
+body.site--project.layout--home > main > .custom-intro .summary .cta .button {
+  border: 0;
+  // border: 1px solid #0d4c00;
+}
+
+body.layout--home > .underlay > .hero {
+  .illustration {
+    bottom: -100px !important;
+
+    svg {
+      height: 200px;
+    }
+  }
+
+  > .text {
+    > .title {
+      font-weight: normal;
+    }
+  }
+}
+
+body.layout--home {
+  > main .custom-intro .summary {
+    ul.supported-bibliographies {
+      li {
+        .label {
+          margin-right: 1en;
+        }
+        .source, .gem {
+          white-space: nowrap;
+        }
+        .source {
+          &:after {
+            content: ", ";
+          }
+
+          &:last-child:after {
+            content: unset;
+          }
+        }
+      }
+    }
+  }
+}
+
+body.layout--home {
+  > main > .featured-posts {
+    .title {
+      align-self: flex-start;
+    }
+  }
+}

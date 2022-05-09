@@ -1,0 +1,145 @@
+---
+layout: post
+title: First shared concepts workshop
+date: 2021-04-15
+categories: announcements
+authors:
+  -
+    name: Reese Plews
+    email: reese.plews@enosema.org
+  -
+    name: Ronald Tse
+    email: ronald.tse@enosema.org
+
+excerpt: >-
+  The official account of EXPRESS history, by its founders!
+---
+
+= First Shared Concepts Workshop
+
+== Workshop: "`Achieving a shared understanding of concepts`"
+
+IMPORTANT: The workshop presentations and audio recordings are now available for download on the https://committee.iso.org/sites/tc211/home/standards-in-action/presentation-archive/2021-04-shared-concepts-workshop.html[ISO/TC-211 Presentations Archive]. If you have any questions please contact sharedconcepts at tc211tmg dot org.  Thank you again to all of the presenters and participants. See you again soon!
+
+IMPORTANT: This workshop is finished (🙏 to all participants, more than 50 participants on the first day, more than 30 on the second day!).
+
+On the 13th and the 15th of April 2021, a workshop was held for an exchange of views on how to achieve a shared understanding of concepts - terminology and definitions - across domains.
+
+=== Practical information
+
+* https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=13&hour=13&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[Day 1: April 13, 2021, 3 hours from UTC 13:00]
+
+* https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=15&hour=5&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[Day 2: April 15, 2021, 3 hours from UTC 05:00]
+
+=== Purpose of the Workshop
+
+Have you seen a term defined differently in one place from another?
+Do you use or manage standardized terminologies/glossaries/thesauri?
+How are these definitions mapped? Perhaps existing
+terminologies/glossaries/thesauri can be made more useful in your
+day-to-day work.
+
+Many domains, such as geospatial, electro-technical, business and
+telecommunications, and others maintain approved terms and
+definitions through well-defined procedures, especially at
+standardization bodies and consortia. We believe building
+mutually-agreed links between concepts across domains would be
+useful. How should we tie the concepts together, how can they be
+maintained and  governed over time, and who is allowed to do so?
+
+The workshop will focus on discussing a framework and procedures for
+tackling these issues and work out any technical details at a later
+time.
+
+=== Workshop Agenda
+
+==== Day 1
+
+https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=13&hour=13&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[April 13, 2021 UTC 13:00 (see international times)]
+
+===== Introduction to Cross Domain Use of Concepts and associated problems and issues
+
+[cols="a,2a,5a"]
+|===
+|Time - UTC | Session | Title
+
+| 13:00 | Welcome & Introduction (10 min) | Agneta Engberg, Chairperson, ISO/TC 211, Peter Parslow, Chairperson-elect, ISO/TC211, and Reese Plews, Terminology Maintenance Group, ISO/TC 211
+| 13:10 | Presentation 1 (20 min) | Concepts - How to describe and harmonize them (Danish experiences)  (by the Danish Agency of Digitisation and Danish Agency for Data Supply and Efficiency)
+| 13:30 | Presentation 2 (10 min) | ISO/TC 211 Terminology Maintenance and the Multi-Lingual Glossary of Terms (by Reese Plews)
+| 13:40 | Break 1 (10 min) |
+| 13:50 | Presentation 3 (20 min) | SKOS-structured referencing between a domain thesaurus, international standards, and large controlled vocabularies – The case of CaLAThe (by Erik Stubkjær)
+| 14:10 | Presentation 4 (20 min) | ISO SMART and Terminology (Ronald Tse)
+| 14:30 | Speed 1 (10 min) | A Case of Developing Community Terminology and Concept for Reporting Dataset Quality Information (by Ge Peng)
+| 14:40 | Presentation 5 (20 min) | NATO Terminology Programme (by Folkert Zijlstra)
+| 15:00 | Speed 2 (10 min) | Is an upper-level ontology useful? (by Peter Winstanley)
+| 15:10 | Break 2 (10 min) |
+| 15:20 | Open discussion 1 with the participants (45 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
+| 15:55 | Closing and reminder about Day 2 meeting (5 min) |
+
+|===
+
+==== Day 2
+
+https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=4&day=15&hour=5&min=0&sec=0&p1=136&p2=69&p3=102&p4=248&p5=240&p6=264&p7=137&p8=263[Day 2 - April 15, 2021 UTC 05:00 (see international times)]
+
+===== Potential solutions
+
+[cols="a,2a,5a"]
+|===
+|Time - UTC | Session | Title
+
+| 05:00 | Welcome & Recap of Day 1 (10 min) | Jan Hjelmager, The Danish Agency for Data Supply and Efficiency
+| 05:10 | Presentation 6 (20 min) | FAIR enough - discovery of interoperability specifications in the inconsistent, complex, overlapping and evolving "real world" (by Rob Atkinson)
+| 05:30 | Speed 3 (10 min) | Divided by a common language: Bridging the gap between the ideal world of geoinformatics and the messy realities of geodesy (by Thomas Knudsen)
+| 05:40 | Speed 4 (10 min) | Towards creating concept systems for system domains -- Reminding some IEC SRG ideas (by Alexander Samarin)
+| 05:50 | Break 1 (10 min) |
+| 06:00 | Presentation 7 (20 min) | Create and Maintain glossaries for your project (by Ankita Tripathi)
+| 06:20 | Speed 5 (15 min) | Importance of shared vocabularies in deriving geographic data of varying levels of detail (by Jagadish Boodala)
+| 06:35 | Speed 6 (15 min) | Terminology for the South African Spatial Data Infrastructure (by Antony K Cooper)
+| 06:50 | Break 2 (10 min) |
+| 07:00 | Moving Forward - Open discussion 2 with the participants (45 min) | Heidi Vanparys - The Danish Agency for Data Supply and Efficiency + team
+| 07:45 | Reaction and Final Thoughts (10 min) | Peter Parslow, Chairperson-elect, ISO/TC 211
+| 07:55 | Closing (5 min) | Jan Hjelmager and Reese Plews
+
+|===
+
+
+=== Organizers & Supporting Parties
+
+[cols="a,7a"]
+|===
+
+|
+image::https://avatars.githubusercontent.com/u/7703150?s=200&v=4[ISO logo,100,100]
+
+|
+The ISO/TC 211 Terminology Maintenance Group (TMG) is responsible
+for matters relating to terminology within https://committee.iso.org/home/tc211[ISO/TC 211 Geographic information/Geomatics], which
+includes the management, harmonization, and promotion of terminology
+concepts, and their relationships in ISO/TC 211 deliverables. The
+TMG coordinates and publishes a multi-lingual glossary of terms, see
+https://github.com/ISO-TC211/TMG.
+
+
+|
+image::https://eng.sdfe.dk/media/2917336/sdfe_cmyk_uk.png[SDFE logo,181,74]
+|
+The https://eng.sdfe.dk/[Danish Agency for Data Supply and
+Efficiency] is tasked with ensuring the presence of a sound
+foundation of data underpinning decisions and major transitions in
+society. In the past, this entailed updating the topographical maps,
+which served as the basis for public administration in Denmark. Their
+role today, is to ensure that data can effectively meet the new
+challenges and unleash the potential of a digital society. This
+requires interoperable public sector data, which can be combined and
+used with the geographic data foundation. Consequently, the task of
+the Danish Agency for Data Supply and Efficiency - as a data
+producer, data distributor, data partner and basic data authority -
+is to provide the data foundation for a digital Denmark.
+
+|
+image::https://avatars.githubusercontent.com/u/24904375?s=200&v=4[Ribose logo,100,100][Ribose logo,100,100]
+|
+https://www.ribose.com[Ribose] is an award-winning global developer of asymmetric security™ and standardization technologies trusted by industries with heightened cybersecurity needs. Ribose is a Deloitte Technology FAST 20 and Red Herring Top 100 Global company, and received the CSA APAC Enterprise Award and several Stevie® Awards for cybersecurity innovations. Ribose is the only cloud service provider (CSP) triple-assured by the Cloud Security Alliance, first to achieve certification to the highest security tiers in NIST CSF and MTCS.
+
+|===

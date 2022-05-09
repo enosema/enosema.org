@@ -1,0 +1,8 @@
+---
+layout: docs-base
+html-class: docs-page
+title: Privacy policy
+---
+== Privacy policy
+
+To be provided.

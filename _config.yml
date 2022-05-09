@@ -1,0 +1,120 @@
+title: Enosema Foundation
+description: International standards for concepts management
+
+tagline: >-
+  Bridging the <strong>semantic gap</strong>
+
+permalink: /blog/:year-:month-:day-:title/
+
+seo:
+  type: Organization
+
+url: https://www.enosema.org
+
+github_repo_url: https://github.com/enosema/enosema.org
+github_repo_branch: main
+
+algolia_search:
+  api_key: 'test'
+  index_name: 'enosema'
+
+landing_priority: [custom_intro, blog, specs, software]
+
+theme: jekyll-theme-open-project
+
+author:
+  name: Enosema Foundation
+  url: https://www.enosema.org
+
+authors:
+  - name: Enosema Foundation
+    email: info@enosema.org
+
+contact_email: info@enosema.org
+
+theme: jekyll-theme-open-project
+
+includes_dir: .
+
+social:
+  links:
+    - https://github.com/enosema
+
+legal:
+  name: Enosema Foundation
+  tos_link: /tos
+  privacy_policy_link: /privacy
+
+# home_calls_to_action:
+#   - { url: "/language/", title: "Language introduction" }
+
+collections:
+  # Temporary fix
+  projects:
+    output: true
+  software:
+    output: true
+    permalink: /software/:path/
+  specs:
+    output: true
+    permalink: /specs/:path/
+  posts:
+    output: true
+    permalink: /blog/:year-:month-:day-:title/
+  pages:
+    output: true
+    permalink: /:name/
+
+
+defaults:
+  # Theme defaults.
+  # MUST be duplicated from theme’s _config.yml
+  # (does not get inherited, unlike the collections hash)
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: _posts
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: _software
+      type: software
+    values:
+      layout: product
+  - scope:
+      path: _specs
+      type: specs
+    values:
+      layout: spec
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-inline-svg
+
+tag_namespaces:
+  software:
+    writtenin: "Written in"
+    bindingsfor: "Bindings for"
+    user: "Target user"
+    interface: "Interface"
+  specs:
+    audience: "Audience"
+    completion_status: "Status"
+
+exclude:
+  - .git
+  - .lycheeignore
+  - "*/.git"
+  - Gemfile*
+  - Makefile
+  - Rakefile
+  - README.adoc
+  - vendor # for deployment
+
+svg:
+  optimize: true
+

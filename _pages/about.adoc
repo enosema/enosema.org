@@ -1,0 +1,92 @@
+---
+layout: docs-base
+html-class: docs-page
+title: About the Enosema Foundation
+---
+
+== Our mission
+
+To facilitate the mutual understanding of entities by providing insight and
+clarity to concepts.
+
+
+== Our work
+
+Enosema achieves its goals through contributions to the domains of
+terminology, ontology and semantics. Enosema is a US-registered IRS 501(c)3
+tax-exempt, non-profit organization.
+
+Specifically, Enosema:
+
+. develops and publishes best practices and related tools for the management,
+governance and dissemination of concepts and their relationships within and
+between such domains;
+
+. fosters and hosts a user community for those using or managing shared
+concepts.
+
+
+== Standardization
+
+Enosema is an international standardization organization, similar to the roles
+played by ISO and IEC.
+
+Enosema creates international standards and contributes to the domains of
+semantic interoperability, shared concepts and concepts management.
+
+
+== Membership
+
+Enosema serves organizations and individuals alike with a need in defining
+terminology, terminology models and concept models across information systems.
+
+Please refer to the link:/membership[membership] page for more details.
+
+
+== Governance structure
+
+Enosema consists of a board and members of the organization. Our members are
+organized into a central office with multiple technical committees:
+
+* The central office functions to support the activities of technical
+committees, including for the publication of standards.
+
+* Technical committees are organized by volunteers who are experts in a selected
+domain of the technical committee and develop best practices and information for
+the international arena.
+
+Enosema is composed of the following internal bodies and roles:
+
+* Board of Directors
+
+* Executive functions
+** President
+** Vice-President
+** Chief Financial Officer
+
+* Technical Committee
+
+
+== Technical work
+
+Technical work at Enosema is performed by the Technical Committee.
+
+
+== International cooperation
+
+The mission of Enosema is international in nature, given that its founding team
+is spread across the globe.
+
+Enosema consists of international experts and will work with international
+partners.
+
+
+== Founders
+
+Enosema is founded by experts that have a deep interest in the standardization
+of terminology and concept management, coming from the organizations
+of ISO and IEC.
+
+* Reese Plews (convenor, Terminology Management Group, https://committee.iso.org/home/tc211[ISO/TC 211 Geographic information/Geomantics])
+* Joanna Goodwin (previously Terminology Coordinator at https://www.iec.ch/homepage[IEC] and secretary of https://www.iec.ch/dyn/www/f?p=103:7:0::::FSP_ORG_ID,FSP_LANG_ID:1231,25[IEC/TC 1 Terminology])
+* Ronald Tse (convenor, Date and time, https://www.isotc154.org[ISO/TC 154 e-Business])

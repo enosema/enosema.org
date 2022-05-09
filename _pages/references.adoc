@@ -1,0 +1,27 @@
+---
+layout: docs-base
+html-class: docs-page
+title: Shared concept references
+---
+:page-liquid:
+
+The citations are provided in the
+https://www.iso.org/standard/72642.html[ISO 690] format.
+
+* Reese PLEWS, Jan HJELMAGER, Heidi VANPARYS, Ronald TSE.
+_First Shared Concepts Workshop_. 2021.
+Available from: http://sharedconcepts.github.io
+
+* International Organization for Standardization. _ISO 19104:2016, Geographic information — Terminology_
+Geneva, 2016. Available from: https://www.iso.org/standard/63541.html
+
+* International Organization for Standardization. _ISO 19146:2018, Geographic information — Cross-domain vocabularies_. Geneva, 2018. Available from: https://www.iso.org/standard/72217.html
+
+* International Organization for Standardization.
+_ISO/IEC Directives, Part 2 Directives. Principles and rules for the structure and drafting of ISO and IEC documents_.
+Available from: https://www.iso.org/sites/directives/current/part2/index.xhtml
+
+* International Electrotechnical Commission.
+_IEC Supplement to the ISO/IEC Directives, Part 1. Procedures for the technical work - Procedures specific to IEC_. 2022.
+Available from: https://www.iec.ch/members_experts/refdocs/iec/isoiecdir1-consolidatedIECsup%7Bed18.0%7Den.pdf
+

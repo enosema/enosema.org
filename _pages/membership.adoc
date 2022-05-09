@@ -1,0 +1,22 @@
+---
+layout: docs-base
+html-class: docs-page
+title: Membership
+---
+
+Enosema serves organizations and individuals alike with a need in defining
+interchangeable concepts and their models across information systems.
+
+Enosema membership is open to all parties internationally through an annual
+donation.
+
+* Corporate membership enables the participation of corporate
+staff in the Enosema Technical Committees with voting rights.
+
+* Individual membership enables participation in technical committees and
+working groups in expert capacity.
+
+* Founding membership carries the same benefits as corporate membership
+but does not carry the requirement of an annual donation.
+
+For membership inquiries, please contact link:mailto:info@enosema.org[us].

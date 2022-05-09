@@ -1,0 +1,153 @@
+---
+layout: post
+title: "Introducing the Enosema Foundation"
+date: 2022-03-18
+categories: announcements
+authors:
+  -
+    name: Reese Plews
+    email: reese.plews@enosema.org
+  -
+    name: Joanna Goodwin
+    email: joanna.goodwin@enosema.org
+  -
+    name: Ronald Tse
+    email: ronald.tse@enosema.org
+
+excerpt: >-
+  The Enosema Foundation is a newly established non-profit standards
+  organization for managing shared concepts.
+---
+= Introducing the Enosema Foundation
+
+We are happy to announce the establishment of the Enosema Foundation.
+Enosema is now fully registered as a US 501(c)3 tax-exempt, non-profit
+organization, and is open for technical standardization work.
+
+== Challenges to concept management
+
+=== Need to manage terminology concepts
+
+Managing standardized terminology concepts is much more than managing a
+dictionary.
+
+The goal of managing these concepts is to enable "`semantic interoperability`".
+By semantic interoperability, we mean the ability to communicate and interpret
+an identical meaning across different domains or information systems.
+
+This is not entirely straightforward:
+
+* Different industries use different terms for the same concept because they
+have different viewpoints, for example, the construction industry looks at
+buildings built with individual components from the ground up, but the
+geospatial industry looks at buildings composed of different shapes from the top
+down.
+
+* Different languages have different concepts, for example, in some cultures a
+screw is named using the same term as a nail. This is a mismatch in the concept
+hierarchy (the way of organizing concepts), and therefore a word-for-word
+translation across languages do not always work.
+
+* In a dictionary, terms provide definitions, and definitions contain uses of
+existing terms. This means that the terms/concepts are by nature linked and
+related to each other, which is the basis of a concept hierarchy. A definition
+of a term can often be expressed in multiple ways even though the intent is
+identical -- a concept can be expressed using different concepts, there is not
+always a single correct or better one.
+
+=== Layers of management
+
+There are a few layers in concept management:
+
+. Managing a dictionary. How to ensure that new concepts that enter the
+dictionary are arranged in the right place, in relation to other concepts
+already present.
+
+. Managing a multi-lingual dictionary. How to ensure that users of the
+dictionary can use the concepts in different languages if the concept hierarchy
+does not match.
+
+. Managing the relationships between concepts that come from dictionaries of
+different industries. Some concepts are identical but use different terms.
+Sometimes the same term is used in different industries for different concepts.
+Some concepts in one industry do not have a corresponding term in another
+industry, and there needs to be a determination on whether that concept should
+be imported, or another term be created for that industry, or is there a
+substitution concept to be used in that industry.
+
+=== Version management
+
+Version management of the concepts presents an additional challenge. In order to
+allow for interoperability of systems, every version of a concept within a
+dictionary, and the version of relationships between concept relations across
+dictionaries, all need to be managed.
+
+
+== Enosema as a standardization organization
+
+=== Shared concepts workshop
+
+In 2021, the ISO/TC 211 Terminology Management Group together with several
+ISO/TC 211 members, organized a series of two "shared concepts workshops".
+The intent was to discuss about use cases and challenges faced in
+cross-organization and cross-domain terminology harmonization.
+
+Over 80 experts participated the workshops, with attendees coming from multiple
+standardization fields, with practical and academic interest in concept
+management, semantic web technologies, dictionary compilation and thesauri
+experts.
+
+One of the conclusions of the series was that many of us involved with
+terminology and concepts management felt that there must be a "better way" in
+doing things.
+
+
+=== Establishment of Enosema
+
+In order to address these challenges, we felt that there were no existing
+organizational structures (within ISO or IEC) that had a broad enough
+mandate to tackle them.
+
+A few of us got together and started thinking -- what if there was a place
+that provides standards and best practices for managing concepts, their
+usage and concept relationships?
+
+With a background in managing some of the most used standardized terminology
+datasets, including the https://www.iec.ch[IEC] https://www.electropedia.org[Electropedia (IEV)],
+the https://www.iso.org/committee/54904.html[ISO/TC 211] Terminology Repository
+and the https://isotc211.geolexica.org[Multi-Lingual Glossary of Terms (MLGT)],
+we believe that there are best practices to be elaborated that will benefit
+terminology practitioners and information system implementers alike.
+
+
+=== Standardization and structure
+
+Enosema is an international standardization organization that creates
+international standards and contributes to the domains of terminology, ontology
+and semantics.
+
+Technical work at Enosema is performed by working groups in the
+Technical Committee, covering aspects such as:
+
+* Concept management within a dictionary;
+
+* Concept mappings across dictionary;
+
+* Version management best practices of concepts and mappings.
+
+
+=== International cooperation
+
+The mission of Enosema is international in nature, given that its founding team
+is spread across the globe.
+
+Enosema consists of international experts and works with international
+partners.
+
+
+== Join us at Enosema!
+
+Enosema welcomes organizations and individuals alike as members to proceed
+towards our goals.
+
+Please check our link:/membership[membership] page for more information!
