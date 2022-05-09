@@ -12,7 +12,7 @@ authors:
     email: ronald.tse@enosema.org
 
 excerpt: >-
-  The official account of EXPRESS history, by its founders!
+  Achieving a shared understanding of concepts, hosted by ISO/TC 211, SDFE and Ribose.
 ---
 
 = First Shared Concepts Workshop
