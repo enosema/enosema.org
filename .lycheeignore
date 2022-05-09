@@ -1,0 +1,5 @@
+assets
+javascript:.*
+https://www.linkedin.com*
+.*@.*example.com
+(ht|f)tps?://.*\.?example\.(com|org).*
