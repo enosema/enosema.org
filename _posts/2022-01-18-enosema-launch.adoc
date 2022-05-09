@@ -88,7 +88,9 @@ dictionaries, all need to be managed.
 === Shared concepts workshop
 
 In 2021, the ISO/TC 211 Terminology Management Group together with several
-ISO/TC 211 members, organized a series of two "shared concepts workshops".
+ISO/TC 211 members, organized a series of two "shared concepts workshops"
+(https://sharedconcepts.github.io[official page],
+link:/blog/2021-04-15-shared-concept-workshop[blog post]).
 The intent was to discuss about use cases and challenges faced in
 cross-organization and cross-domain terminology harmonization.
 
